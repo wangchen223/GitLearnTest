@@ -1,0 +1,6 @@
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo\bin\Debug\Beisen.ESBDemo.dll.config
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo\bin\Debug\Beisen.ESBDemo.dll
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo\bin\Debug\Beisen.ESBDemo.pdb
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo\obj\Debug\Beisen.ESBDemo.csprojResolveAssemblyReference.cache
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo\obj\Debug\Beisen.ESBDemo.dll
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo\obj\Debug\Beisen.ESBDemo.pdb

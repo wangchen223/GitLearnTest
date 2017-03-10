@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beisen.ESBDemo", "Beisen.ESBDemo\Beisen.ESBDemo.csproj", "{00B58365-13D1-45AE-8292-3A6FEFF09699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beisen.ESBDemo.ServiceImp", "Beisen.ESBDemo.ServiceImp\Beisen.ESBDemo.ServiceImp.csproj", "{548DD72F-4F7C-4602-B269-0345DE7E8BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beisen.ESBDemo.ServiceInterface", "Beisen.ESBDemo.ServiceInterface\Beisen.ESBDemo.ServiceInterface.csproj", "{76A2EBF8-AD92-449F-9B19-F62313210834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beisen.ESBDemo.Model", "Beisen.ESBDemo.Model\Beisen.ESBDemo.Model.csproj", "{53B42DE0-35E8-4DAE-BFE8-3D4A1180D4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beisen.ESBDemo.Host", "Beisen.ESBDemo.Host\Beisen.ESBDemo.Host.csproj", "{80B4AE32-4133-4FBA-9E28-88FF0995733F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beisen.ESBDemo.Client", "Beisen.ESBDemo.Client\Beisen.ESBDemo.Client.csproj", "{AFCB3686-A7C3-4BF0-887D-D10F4F01D10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B58365-13D1-45AE-8292-3A6FEFF09699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B58365-13D1-45AE-8292-3A6FEFF09699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B58365-13D1-45AE-8292-3A6FEFF09699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B58365-13D1-45AE-8292-3A6FEFF09699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548DD72F-4F7C-4602-B269-0345DE7E8BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548DD72F-4F7C-4602-B269-0345DE7E8BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548DD72F-4F7C-4602-B269-0345DE7E8BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548DD72F-4F7C-4602-B269-0345DE7E8BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A2EBF8-AD92-449F-9B19-F62313210834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A2EBF8-AD92-449F-9B19-F62313210834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A2EBF8-AD92-449F-9B19-F62313210834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A2EBF8-AD92-449F-9B19-F62313210834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B42DE0-35E8-4DAE-BFE8-3D4A1180D4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B42DE0-35E8-4DAE-BFE8-3D4A1180D4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B42DE0-35E8-4DAE-BFE8-3D4A1180D4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B42DE0-35E8-4DAE-BFE8-3D4A1180D4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B4AE32-4133-4FBA-9E28-88FF0995733F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B4AE32-4133-4FBA-9E28-88FF0995733F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B4AE32-4133-4FBA-9E28-88FF0995733F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B4AE32-4133-4FBA-9E28-88FF0995733F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCB3686-A7C3-4BF0-887D-D10F4F01D10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCB3686-A7C3-4BF0-887D-D10F4F01D10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCB3686-A7C3-4BF0-887D-D10F4F01D10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCB3686-A7C3-4BF0-887D-D10F4F01D10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

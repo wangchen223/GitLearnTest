@@ -1,0 +1,7 @@
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.ServiceInterface\bin\Debug\Beisen.ESBDemo.ServiceInterface.dll
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.ServiceInterface\bin\Debug\Beisen.ESBDemo.ServiceInterface.pdb
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.ServiceInterface\bin\Debug\Beisen.ESBDemo.Model.dll
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.ServiceInterface\bin\Debug\Beisen.ESBDemo.Model.pdb
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.ServiceInterface\obj\Debug\Beisen.ESBDemo.ServiceInterface.csprojResolveAssemblyReference.cache
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.ServiceInterface\obj\Debug\Beisen.ESBDemo.ServiceInterface.dll
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.ServiceInterface\obj\Debug\Beisen.ESBDemo.ServiceInterface.pdb

@@ -1,0 +1,12 @@
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.Host.exe.config
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.Host.exe
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.Host.pdb
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.ServiceImp.dll
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.ServiceInterface.dll
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.Model.dll
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.ServiceImp.pdb
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.ServiceInterface.pdb
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\bin\Debug\Beisen.ESBDemo.Model.pdb
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\obj\Debug\Beisen.ESBDemo.Host.csprojResolveAssemblyReference.cache
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\obj\Debug\Beisen.ESBDemo.Host.exe
+D:\Project\Learn\Beisen.ESBDemo\Beisen.ESBDemo.Host\obj\Debug\Beisen.ESBDemo.Host.pdb
